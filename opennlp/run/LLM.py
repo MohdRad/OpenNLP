@@ -853,3 +853,6 @@ class Llama():
                                          const=const)
         LlamaTrainerSingle.train(max_epochs=const['total_epochs'])
         LlamaTrainerSingle.test()
+ 
+ 
+    # More to come falcon, llama and MistralAI
